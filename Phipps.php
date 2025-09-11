@@ -9,13 +9,13 @@
 </style>
 
 <script>
-    alert("Hello World!");
+    alert("Hello Baby!");
 </script>
 -->
 
 <?php
-    echo "Hello World!";
-    # echo "Hello World!";
+    //echo "Hello Love!";
+    # echo "Hello Sweety!";
 ?>
 
 <!-- Hello -->
@@ -30,312 +30,382 @@
 <body>
     <!-- <h1>This is my first PHP page</h1> -->
 
-    <?php   eChO "<b>Hello, my name is Buknoy!</b><br>";  -->
+    <?php   eChO //"<b>Hello, my name is Lexii!</b><br>";  -->
 
-     a-Z09_
-    *$a = 5;
-    echo $a;
+    // a-Z09_
+    /*$a = 5;
+    //echo $a;
     var_dump($a);
-    var_dump("John");
+    var_dump("Lexi");
     var_dump(3.14);
     var_dump(true);
     var_dump([1,2,3]);
     var_dump(null);
     */
 
-    *$a = 5; 
+    /*$a = 5; //global
 
     echo $a."<br>";
 
     function test(){
-        $a = 0; local
-        static $a = 0; static
+        //$a = 0; //local
+        static $a = 0; //static
         echo $a."<br>";
         $a++;
     }*/
 
-     test();
-     test();
+    // test();
+    // test();
    
-     echo("Hello<br>"),("Hello<br>"),("Hello<br>");
-     echo "World!<br>","World!<br>","World!<br>";
+    // echo("Hello<br>"),("Hello<br>"),("Hello<br>");
+    // echo "World!<br>","World!<br>","World!<br>";
 
-     print("Hello<br>");
-     print "Hello<br>";
+    // print("Hello<br>");
+    // print "Hello<br>";
 
-     $a = 5;
+    // $a = 5;
 
-     echo '$a Eggs';
+    // echo '$a Eggs';
 
-     $a = "John";
-     $b = -5;
-     $c = 3.14;
-     $d = false;
-     $e = [1,2,3];
-     $f = new stdClass();
-     $g = null;
-     $h = fopen("php_practice.php", "r");
+    // $a = "BABI";
+    // $b = -5;
+    // $c = 3.14;
+    // $d = false;
+    // $e = [1,2,3];
+    // $f = new stdClass();
+    // $g = null;
+    // $h = fopen("php_practice.php", "r");
 
-     var_dump($a);
-     echo '<br>';
-     var_dump($b);
-     echo '<br>';
-     var_dump($c);
-     echo '<br>';
-     var_dump($d);
-     echo '<br>';
-     var_dump($e);
-     echo '<br>';
-     var_dump($f);
-     echo '<br>';
-     var_dump($g);
-     echo '<br>';
-     var_dump($h);
-     echo '<br>';
+    // var_dump($a);
+    // echo '<br>';
+    // var_dump($b);
+    // echo '<br>';
+    // var_dump($c);
+    // echo '<br>';
+    // var_dump($d);
+    // echo '<br>';
+    // var_dump($e);
+    // echo '<br>';
+    // var_dump($f);
+    // echo '<br>';
+    // var_dump($g);
+    // echo '<br>';
+    // var_dump($h);
+    // echo '<br>';
 
-     echo strlen($a), "<br>";
-     echo str_word_count($a), "<br>";
-     echo strpos($a, "Cruz"), "<br>";
-     echo strtoupper($a), "<br>";
-     echo strtolower($a), "<br>";
-     echo str_replace("Cruz", "Manaloto", $a), "<br>";
-     echo strrev($a), "<br>";
-     echo trim("Hello Love Goodbye!  "), "<br>";
-     var_dump (explode(" ", "Hello Bap!")); array ko
+    // echo strlen($a), "<br>";
+    // echo str_word_count($a), "<br>";
+    // echo strpos($a, "BABI"), "<br>";
+    // echo strtoupper($a), "<br>";
+    // echo strtolower($a), "<br>";
+    // echo str_replace("BABI", "Miss you", $a), "<br>";
+    // echo strrev($a), "<br>";
+    // echo trim("Hello Love, miss you!  "), "<br>";
+    // var_dump (explode(" ", "Hello Love!")); //array niya
 
-    echo "Hello" "World!"; error
-     echo var_dump("Hello World!");
-     $x = "Hello";
-     $y = "World";
+    //echo "Hello" "World!"; //error
+    // echo var_dump("Hello World!");
+    // $x = "Hello";
+    // $y = "World";
 
-     echo $x ." ". $y;
-     echo "$x $y", "<br>";
+    // //echo $x ." ". $y;
+    // echo "$x $y", "<br>";
 
-     echo 'John \'Bay\' Cruz';
+    // echo 'John \'Bay\' Cruz';
 
-     $a = 5;
-     $b = 3.14;
-     $c = "25"; if 'eggs' or '5 eggs', no return
+    // $a = 5;
+    // $b = 3.14;
+    // $c = "25"; //if 'eggs' or '5 eggs', no return
 
-     echo PHP_INT_MAX, "<br>"; 9223372036854775807
-     echo PHP_INT_MIN, "<br>"; -9223372036854775808
-     echo PHP_INT_SIZE, "<br>"; 8
+    // echo PHP_INT_MAX, "<br>"; //9223372036854775807
+    // echo PHP_INT_MIN, "<br>"; //-9223372036854775808
+    // echo PHP_INT_SIZE, "<br>"; //8
    
-     echo is_int($a), "<br>"; 1
-     echo is_int($b), "<br>"; blank
-     echo is_int($c), "<br>"; blank
+    // echo is_int($a), "<br>"; //1
+    // echo is_int($b), "<br>"; //blank
+    // echo is_int($c), "<br>"; //blank
 
-     echo PHP_FLOAT_MAX, "<br>"; 1.7976931348623E+308
-     echo PHP_FLOAT_MIN, "<br>"; 2.2250738585072E-308
-     echo PHP_FLOAT_DIG, "<br>"; 15
-     echo PHP_FLOAT_EPSILON, "<br>"; 2.2204460492503E-16
+    // echo PHP_FLOAT_MAX, "<br>"; //1.7976931348623E+308
+    // echo PHP_FLOAT_MIN, "<br>"; //2.2250738585072E-308
+    // echo PHP_FLOAT_DIG, "<br>"; //15
+    // echo PHP_FLOAT_EPSILON, "<br>"; //2.2204460492503E-16
 
-     echo is_float($a), "<br>";
+    // echo is_float($a), "<br>";
 
-     echo is_numeric($c), "<br>";
+    // echo is_numeric($c), "<br>";
 
-     $a = (string) "Bapa ra";
-     $b = (string) -5;
-     $c = (string) 3.14;
-     $d = (string) true; 1, if false blank
-     $e = (string) null;
-     $f = (string) fopen("php_practice.php", "r");
+    // var_dump($a);
+    // echo '<br>';
+    // var_dump($b);
+    // echo '<br>';
+    // var_dump($c);
+    // echo '<br>';
+    // var_dump($d);
+    // echo '<br>';
+    // var_dump($e);
+    // echo '<br>';
+    // var_dump($f);
 
-     var_dump($a);
-     echo '<br>';
-     var_dump($b);
-     echo '<br>';
-     var_dump($c);
-     echo '<br>';
-     var_dump($d);
-     echo '<br>';
-     var_dump($e);
-     echo '<br>';
-     var_dump($f);
+    // $a = (int) "John Cruz";
+    // $b = (int) -5;
+    // $c = (int) 3.14;
+    // $d = (int) true;
+    // $e = (int) null;
+    // $f = (int) fopen("php_practice.php", "r");
 
-     $a = (int) "Bapa ra";
-     $b = (int) -5;
-     $c = (int) 3.14;
-     $d = (int) true;
-     $e = (int) null;
-     $f = (int) fopen("php_practice.php", "r");
+    // $a = (float) "John Cruz";
+    // $b = (float) -5;
+    // $c = (float) 3.14;
+    // $d = (float) true;
+    // $e = (float) null;
+    // $f = (float) fopen("php_practice.php", "r");
 
-     $a = (float) "JBapa ra";
-     $b = (float) -5;
-     $c = (float) 3.14;
-     $d = (float) true;
-     $e = (float) null;
-     $f = (float) fopen("php_practice.php", "r");
+    // $a = (bool) "John Cruz";
+    // $b = (bool) -5;
+    // $c = (bool) 3.14;
+    // $d = (bool) true;
+    // $e = (bool) null;
+    // $f = (bool) fopen("php_practice.php", "r");
 
-     $a = (bool) "Bapa ra";
-     $b = (bool) -5;
-     $c = (bool) 3.14;
-     $d = (bool) true;
-     $e = (bool) null;
-     $f = (bool) fopen("php_practice.php", "r");
+    // $a = (array) "John Cruz";
+    // $b = (array) -5;
+    // $c = (array) 3.14;
+    // $d = (array) true;
+    // $e = (array) null;
+    // $f = (array) fopen("php_practice.php", "r");
 
-     $a = (array) "Bapa ra";
-     $b = (array) -5;
-     $c = (array) 3.14;
-     $d = (array) true;
-     $e = (array) null;
-     $f = (array) fopen("php_practice.php", "r");
+    // $a = (unset) "John Cruz";
+    // $b = (unset) -5;
+    // $c = (unset) 3.14;
+    // $d = (unset) true;
+    // $e = (unset) null;
+    // $f = (unset) fopen("php_practice.php", "r");
+    // unset cast no longer supported
 
-     $a = (unset) "Bapa ra";
-     $b = (unset) -5;
-     $c = (unset) 3.14;
-     $d = (unset) true;
-     $e = (unset) null;
-     $f = (unset) fopen("php_practice.php", "r");
-     unset cast no longer supported
+    // echo pi();
+    // echo min(5, 1, 3, 4);
+    // echo max(5, 1, 3, 4);
 
-     echo pi();
-     echo min(5, 1, 3, 4);
-     echo max(5, 1, 3, 4);
-
-     echo abs(-10);
-     echo abs(10);
-
-     echo sqrt(4);
-
-     echo round(3.4);
-
-     echo round(3.45, 0);
+    // echo abs(6);
    
-     echo rand();
-     echo rand(4, 14);
 
-    constants
-     $x = 10;
-     define("_GREETING", "Hello World!");
+    // echo sqrt(2);
 
-     echo $x;
-     var_dump(_GREETING);
+    // echo round(3.4);
 
-     const _GREETING2 = "Hello People!";
-
-     echo _GREETING;
-
-     function test(){
-         echo _GREETING;
-     }
-
-     test();
-
-     echo $x;
-     unset($x);
-     echo $x;
-
-     echo $x;
-     unset(_GREETING);
-     echo _GREETING;
-
-    PHP OPERATORS
+    // echo round(5, 20);
    
-    ARITHMETICS
+    // echo rand();
+    // echo rand(4, 14);
 
-     + addition
-    echo 10 + 100 + 30, "<br>";
+    //constants
+    // $x = 5;
+    // define("GREETING", "Hello BABIi");
+    //echo GREEING
 
-      - subtraction
-     echo 10 - 100 - 20, "<br>";
+    // echo $x;
+    // var_dump(GREETING);
 
-      add and sub
-     echo 10 - 20 + 100 - 10, "<br>"; left to right
+    // const _GREETING2 = "Hello my baby!!";
 
-      * multiplication
-     echo 10 * 10 * 100, "<br>";
+    // echo GREETING;
 
-      / division
-     echo 10 / 5 / 2, "<br>";
+    // function test(){
+    //     echo GREETING;
+    // }
 
-      multi and division
-     echo 10 / 5 * 2, "<br>";
+    // test();
 
-      addition/sub and division/multi
-     echo 50 + 10 / 2, "<br>"; multi/division before add/subtract
+    // echo $x;
+    // unset($x);
+    // echo $x;
 
-      % modulus
-     echo 7 % 3, "<br>";
+    // echo $x;
+    // unset(GREETING);
+    // echo GREETING;
 
-      ** expponential
-     echo 10 ** 10;
-
-     ASSIGNMENT
-
-     = equals
-    $x = 10;
-
-     +=
-     $x = $x + 10;
-     $x += 10;
-
-     -=
-     $x = $x - 10;
-     $ -= 10;
-
-     /=
-     $x = $x / 10;
-     $x /= 10;
-
-     *=
-     $x = $x * 10;
-     $x *= 10;
-
-     echo $x;
-
-      COMPARISON OPERATORS
-
-      == equals to = similar value
-     var_dump(10 == "10"); true
-
-      === identical = similar value and data types
-     var_dump(10 === "10"); false, not same data type
-
-      != <> not equals to = not similar value
-     var_dump(10 != "10");
-     var_dump(10 <> "10");
-
-      !== not identical = not similar value or not similar data types
-     var_dump(10 !== "10"); true
-
-      < less than = check if 1 value is less than second value
-     var_dump(10 < "10"); false
-     var_dump(10 < 9); false
-
-      > greater than = check if 1 value is greater than second value
-     var_dump(10 > 9); true
-
-      <= less than or equals to = check if 1 value is less than or equal than the second value
-     var_dump(10 <= 10);
-
-      >= greater than or equals to
-     var_dump(10 >= 10);
-
-      <=> spaceship = check if first value
-     var_dump(1 <=> 2);
-
-      PHP INCREMENT AND DECREMENT
    
-      pre-increment
-     $x = 10;
-     echo ++$x, "<br>"; 11
+    $x = 5;
 
-      post-increment
-     $y = 10;
-     echo $y++, "<br>"; 10
-     echo $y, "<br>";
+    // +=
+    // $x = $x + 10;
+    // $x += 10;
 
-      pre-decrement
-     $x = 10;
-     echo --$x, "<br>";
+    // -=
+    // $x = $x - 10;
+    // $ -= 10;
 
-      post-decrement
-     $y = 10;
-     echo $y--, "<br>";
-     echo $y, "<br>";
-    ?>
+    // /=
+    // $x = $x / 10;
+    // $x /= 10;
 
+    // *=
+    // $x = $x * 10;
+    // $x *= 10;
+
+    // echo $x;
+
+    // // COMPARISON OPERATORS
+
+    // var_dump(5 == 5); //true
+    // var_dump("5" === "5"); //true
+    // var_dump(5 <> "7"); //true
+    // var_dump(5 != "5"); //true
+
+    //echo 1 <=> 2;
+    //echo 2 <=> 2;
+    //echo 3 <=> 2;
+
+
+    // INCREMENT AND DECREMENT
+   
+    // // pre-increment/decrement
+    // $x = 5;
+    // echo ++$x, "<br>"; //6
+
+    // // post-increment/decrement
+    // $y = 5;
+    // echo $y++, "<br>"; //5
+    // echo $y, "<br>";
+   
+    //logical
+
+    // and &&
+    //var_dump(true && false); //both true
+   // var_dump(5 == "5" && 5 == 5); //both true
+
+   //or
+   //var_dump(false or false);
+
+   //xor
+   // var_dump(true or true); //false
+   // var_dump(true or false); //true
+
+   // ! reverse
+   //var_dump(!true); //false
+   //var_dump(!false); //true
+
+   // .
+   //$x = "Hello";
+
+   //.= append
+   //$x .= "World!";
+   //echo $x;
+
+    //$x = [1,2,3];
+    //$y = [3=>4,5,6,7];
+
+    //$z = $x + $y;
+   
+    //print_r($x);
+    //print_r($y);
+    //print_r($z);
+
+//equal to
+   // $x = [1,2,3];
+   // $y = [1,2,3];
+   // echo $x == $y; //true
+
+//identical
+   // $x = [1,2,3];
+   // $y = [2=>,3,1=>2,0=>1];
+   // echo $x == $y; //false
+
+//if statement
+    //if(4=="4h"){
+     //   echo "same";
+    //}elseif(4>5){
+   //     echo "4 is greater than 5";
+   // }
+    //else(){
+    //    echo "no";
+    //}
+
+    //$gender = "null";
+    //if($gender == "female"){echo "woman";}else{echo "mens"}
+    //condition ? if true : if false;
+    //echo $gender == "female" ? "woman" : "mens";
+    //echo $gender == "male" ? "mens" : "woman";
+
+    //$x = $gender == "female" ? "woman" : "mens";
+    //echo $x;
+   
+    //$x = $gender ?? null;
+
+    //echo $x;
+   
+//switch
+
+    //$color = "B";
+
+   // switch($color){
+    //    case "R":
+      //      echo "Red";
+        //    break;
+      //  case "G":
+        //    echo "Green":
+        //    break;
+       
+        //case "B";
+       //     echo "Blue";
+         //   break;
+       // default:
+        //   echo "Invalid";
+   // }
+
+   // true and true
+   //if(4 == "4" && 4 == 4 ){}
+   
+   // at least 1 true
+   //if(4 == "4" || 4 == 4 ){}
+
+   // only one true, cannot be both
+   //if(4 == "4" XOR 4 == 4 ){}
+
+   //reverse
+   //if(!4 == "4"){}
+
+   //while
+   //$x = 0
+   //while($x < 5){
+   //echo "Hello";
+   //continue;
+   //$x++;
+  // }
+
+   //do while
+   //do{
+    //echo $x;
+   // $x++;
+   //}while($x < 5)
+
+   //for
+  // for($x = 0; $x < 5; $x++){
+    //echo $x;
+   //}
+
+   //foreach
+   //$x = array(1,2,3,4);
+
+   //foreach($x as $key){
+   // echo $key. "->".$value,"<br>";
+   //}
+
+   <ol>
+        // <?php for($x = 1; $x <= 10; $x++){
+         //   echo "<li> Item 1 </li>"
+       // }
+
+
+       <?php
+        $x = array("Maria", "Theresa", "Juana");
+        foreach ($x as $value){?>
+           <li
+        }
+
+
+        ?>
+    </ol>
 
 </body>
 </html>
